@@ -1,5 +1,5 @@
 PRODUCT_MAKEFILES := \
-	$(LOCAL_DIR)/cyanogen_blaze.mk \
+	$(LOCAL_DIR)/cyanogen_otter.mk \
     $(LOCAL_DIR)/cyanogen_thunderc.mk \
     $(LOCAL_DIR)/cyanogen_sunfire.mk \
     $(LOCAL_DIR)/cyanogen_thunderc_LW690.mk \
