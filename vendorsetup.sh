@@ -1,4 +1,0 @@
-add_lunch_combo cyanogen_one-eng
-add_lunch_combo cyanogen_olympus-eng
-add_lunch_combo cyanogen_p500-eng
-add_lunch_combo cyanogen_sunfire-eng
