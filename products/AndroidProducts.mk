@@ -1,5 +1,6 @@
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/cyanogen_gelato_VM701.mk \
+    $(LOCAL_DIR)/cyanogen_gelato_L55C.mk \
 	$(LOCAL_DIR)/cyanogen_otter.mk \
     $(LOCAL_DIR)/cyanogen_thunderc.mk \
     $(LOCAL_DIR)/cyanogen_thunderc_LW690.mk \
